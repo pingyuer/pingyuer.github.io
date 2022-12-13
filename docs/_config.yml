@@ -31,6 +31,8 @@ github_username:  pingyuer
 
 # Build settings
 theme: minima
+  #theme: no-style-please
+
 plugins:
   - jekyll-feed
 
